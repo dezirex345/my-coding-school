@@ -53,6 +53,7 @@ ul{
 /*Logo Section Logo Section Logo Section Logo Section Logo Section Logo Section Logo Section Logo Section Logo Section */
 .logo {
 	height:60px;
+	
 }
 /*Menu Section Menu Section Menu Section Menu Section Menu Section Menu Section Menu Section Menu Section Menu Section */
 nav {
@@ -193,4 +194,7 @@ nav a {
 	color:white;
 	margin-left:10px;
 	text-decoration:none;
+}
+.slider{
+	width: 100%;
 }
