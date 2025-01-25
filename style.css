@@ -11,7 +11,16 @@ html, body {
 .container {
 	width: 1300px;
 	margin:0px auto;
+
 }
+
+.navigation{
+display: flex;
+ul{
+	display: flex;
+}
+}
+
 .main-section {
 	width: 100%;
 	float: left;
