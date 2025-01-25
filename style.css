@@ -9,8 +9,9 @@ html, body {
 	color: #242424;
 }
 .container {
-	width: 1300px;
+	width:100%;
 	margin:0px auto;
+	
 
 }
 
